@@ -1,0 +1,16 @@
+.DS_Store
+.idea
+.gradle
+*.iml
+target
+*.project
+*.classpath
+*.settings
+.factorypath
+bin
+.toDelete
+**/output/
+*_report.html
+jmeter.log
+logs
+
